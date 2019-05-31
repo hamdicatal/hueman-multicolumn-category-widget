@@ -1,4 +1,5 @@
 === Hueman Multicolumn Category Widget ===
+
 Contributors: hamdicatal
 Tags: widget, category, hueman
 Requires at least: 3.6
