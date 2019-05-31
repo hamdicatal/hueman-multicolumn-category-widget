@@ -1,12 +1,11 @@
 === Hueman Multicolumn Category Widget ===
-
-Contributors: hamdicatal
-Tags: widget, category, hueman
-Requires at least: 3.6
-Tested up to: 5.2
-Stable tag: 1.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+* Contributors: hamdicatal    
+* Tags: widget, category, hueman  
+* Requires at least: 3.6  
+* Tested up to: 5.2   
+* Stable tag: 1.0 
+* License: GPLv2 or later 
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html   
 
 This widget displays top level categories in multiple columns and styles only compatible with Hueman theme. Tested on one-right-sidebar layout.
 
@@ -43,4 +42,4 @@ Generally the widget supports multiple languages - you can use Loco Translate to
 == Upgrade Notice ==
 
 = 1.0 =
-First release. (Thanks to Arno Welzel)
+* First release. (Thanks to Arno Welzel)
